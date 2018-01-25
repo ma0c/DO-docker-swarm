@@ -1,0 +1,14 @@
+export DIGITALOCEAN_ACCESS_TOKEN=''
+export DIGITALOCEAN_IMAGE='ubuntu-14-04-x64'
+export DIGITALOCEAN_PRIVATE_NETWORKING=true
+export DIGITALOCEAN_REGION=''
+export DIGITALOCEAN_MANAGER_SIZE='2gb'
+export DIGITALOCEAN_WORKER_SIZE='1gb'
+export DIGITALOCEAN_REGISTRY_SIZE='1gb'
+export MANAGER_NAME=my-manager
+export NUM_WORKERS=2
+export SWARM_WORKERS_PREFIX=my-swarm-node-
+# Until here to create.sh script
+export MANAGER_IP=''
+export TOKEN=''
+export REGISTRY_NAME=''
